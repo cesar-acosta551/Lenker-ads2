@@ -1,0 +1,38 @@
+{
+  "_readme": "All ad copy lives here. Wrap the lime accent word(s) in *asterisks*. Lengths: micro = 160x600, compact = 300x250 / 336x280 / 1200x628, full = 300x600 / 1080x1080.",
+  "brand": { "logo": "LENKER", "navy": "#26445A", "lime": "#D4E84A", "click_url": "https://lenker.com" },
+  "size_length": {
+    "160x600": "micro", "300x250": "compact", "336x280": "compact",
+    "300x600": "full", "1080x1080": "full", "1200x628": "compact"
+  },
+  "sets": {
+    "A": {
+      "name": "The Number", "cta": "Why me?", "image": "A_launch-complex.jpg",
+      "note": "Lead concept. The ad states its own targeting. One crowd, one of them is you.",
+      "micro":   { "headline": "This ad is for about *400* people.", "sub": "You're one." },
+      "compact": { "headline": "This ad is for about *400* people.", "sub": "You're one." },
+      "full":    { "headline": "This ad is for about *400* people.", "sub": "Marketing leaders in Minnesota. You're one." }
+    },
+    "B": {
+      "name": "We did our job", "cta": "See how", "image": "B_hangar.jpg",
+      "note": "Safest. Targeting as proof. Precision work, the team checking the result.",
+      "micro":   { "headline": "Seeing this? We *did our job.*", "sub": "This ad is the demo." },
+      "compact": { "headline": "If you're seeing this, we *did our job.*", "sub": "This ad is the demo." },
+      "full":    { "headline": "If you're seeing this, we *did our job.*", "sub": "Precise targeting, measured all the way to revenue. This ad is the demo." }
+    },
+    "C": {
+      "name": "We found you", "cta": "Show me", "image": "C_summons.jpg",
+      "note": "Warmest. We picked you. The personal summons arriving at the mailbox.",
+      "micro":   { "headline": "We *found you.*", "sub": "We can find your buyers." },
+      "compact": { "headline": "We *found you.*", "sub": "If we can find you, we can find your buyers." },
+      "full":    { "headline": "We found the *400* marketing leaders worth reaching.", "sub": "Imagine what we'd do with your audience." }
+    },
+    "D": {
+      "name": "No waste", "cta": "See how", "image": "D_planning-room.jpg",
+      "note": "Fallback. Least provocative. The orbit diagram with one star at the centre.",
+      "micro":   { "headline": "No *wasted* impressions.", "sub": "Not on you." },
+      "compact": { "headline": "No *wasted* impressions.", "sub": "Not on you. Not on your customers." },
+      "full":    { "headline": "No *wasted* impressions.", "sub": "Not on you, and not on your customers." }
+    }
+  }
+}
